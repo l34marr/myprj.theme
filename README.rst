@@ -6,25 +6,18 @@
 myprj.theme
 ==============================================================================
 
-Tell me what your product does
+MyProject Theme Package is meant to be a base for theme development.
 
 Features
 --------
 
-- Can be bullet points
-
-
-Examples
---------
-
-This add-on can be seen in action at the following sites:
-- Is there a page on the internet where everybody can see the features?
+- Minimalism
 
 
 Documentation
 -------------
 
-Full documentation for end users can be found in the "docs" folder, and is also available online at http://docs.plone.org/foo/bar
+Full documentation for end users can be found in the "docs" folder.
 
 
 Translations
@@ -54,19 +47,12 @@ and then running ``bin/buildout``
 Contribute
 ----------
 
-- Issue Tracker: https://github.com/collective/myprj.theme/issues
-- Source Code: https://github.com/collective/myprj.theme
-- Documentation: https://docs.plone.org/foo/bar
-
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@example.com
+- Issue Tracker: https://github.com/l34marr/myprj.theme/issues
+- Source Code: https://github.com/l34marr/myprj.theme
 
 
 License
 -------
 
 The project is licensed under the GPLv2.
+
