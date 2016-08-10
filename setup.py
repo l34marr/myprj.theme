@@ -15,7 +15,7 @@ long_description = '\n\n'.join([
 setup(
     name='myprj.theme',
     version='1.0a1',
-    description="An add-on for Plone",
+    description="MyProject Theme Package",
     long_description=long_description,
     # Get more from https://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
@@ -41,9 +41,7 @@ setup(
         'plone.api',
         'Products.GenericSetup>=1.8.2',
         'setuptools',
-        'z3c.jbot',
         'plone.app.theming',
-        'plone.app.themingplugins',
     ],
     extras_require={
         'test': [
