@@ -3,10 +3,4 @@
   xmlns:browser="http://namespaces.zope.org/browser"
   i18n_domain="myprj.theme">
 
-  <!-- Publish static files -->
-  <browser:resourceDirectory
-      name="myprj.theme"
-      directory="static"
-      />
-
 </configure>
